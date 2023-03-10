@@ -1,0 +1,24 @@
+body {
+    margin-right: 8vw;
+    margin-left: 8vw;
+    background-color: #F0E9D2;
+}
+
+address {
+    background-color: #678983;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+    color: #181D31
+}
+
+#textsobre {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+h1,
+h2 {
+    color: #181D31
+}
