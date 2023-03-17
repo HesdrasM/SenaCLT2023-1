@@ -22,3 +22,13 @@ h1,
 h2 {
     color: #181D31
 }
+
+.imgperfil {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+#apresentacao h1 {
+    text-align: center;
+}
