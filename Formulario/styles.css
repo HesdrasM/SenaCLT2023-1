@@ -28,4 +28,6 @@ textarea {
     border-radius: 5px;
 }
 
-
+label {
+    margin-right: 10px;
+}
