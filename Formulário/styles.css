@@ -1,30 +1,31 @@
 body {
     margin: 0%;
-    background-color:#99F0CA;
+    background-color: #3F979B;
 }
+
 .required {
-    color: purple;
+    color: blue;
 }
 
 fieldset {
+    position: relative;
     width: 50rem;
-    height: 50vw;
-    margin: 20%;
-    border-radius: 15px;
-    align-content: center;
+    height: 35vw;
+    left: 20vw;
+    border-radius: 4px;
     font-family: 'poppins', sans-serif;
-    background-color: #C9FDD7;
-    color: black;
+    background-color: #93BFCF;
     box-shadow: -3px 3px 10px 2px rgba(49, 49, 49, 0.671);
 }
 
 input {
-    background-color: #FDFFE7;
-    border-radius: 10px;
-    box-shadow: -2px 2px 4px 0px rgb(98, 98, 98);
+    background-color: whitesmoke;
+    border-radius: 4px;
+    font-family: 'poppins', sans-serif;
+}
+
+textarea {
+    border-radius: 5px;
 }
 
 
-::placeholder {
-    color: #8C7676;
-}
